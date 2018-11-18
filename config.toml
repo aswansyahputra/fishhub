@@ -1,0 +1,103 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "FishHub Poisson"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/v2/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Tentang Kami"
+        url     = "/about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Layanan"
+        url     = "/service"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Dokumentasi"
+        url     = "/gallery"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Kontak"
+        url     = "/contact"
+        weight  = 6
+
+# Site Params
+[params]
+    home = "Beranda"
+    dateFormat = "6 January 2006"
+    #
+    # You can use either an image or text as logo.
+    # To use an image use 'logo' (logo itself) and 'logo_alt' (alternative text if image cannot displayed)
+    # To use text as logo use 'logo_text'
+    logo = "images/logo3.png"
+    logo_alt = "FishHub"
+    #logo_text = "logo_text"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "FishHub Poisson..."
+        description = "Sebuah Inovasi dan Solusi Pasca Panen Perikanan Indonesia"
+        btn     = true
+        btnText = "Simak Video Kami"
+        btnURL  = "https://themefisher.com/"
+        [[params.banner.flipText]]
+            title   = "Ikan Bergizi"
+        [[params.banner.flipText]]
+            title   = "Sistem Terintegrasi"
+        [[params.banner.flipText]]
+            title   = "Sumberdaya Berkelanjutan"
+
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "FishHub Poisson"
+        content = "Pelopor Indonesian integrated fish supply chain di bidang perikanan Indonesia yang memberikan produk olahan ikan yang berkualitas dan bernutrisi dengan sistem terintegrasi oleh website dan perangkat lunak untuk mengatasi masalah malnutrisi dan stunting."
+        image   = "images/about/fishhub.png"
+
+    # Call to Action
+    [params.cta]
+        enable  = false
+        title   = "SO WHAT YOU THINK ?"
+        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        btnText = "Contact with me"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Produk Kami"
+        subtitle= ""
+
+    # Feature Product Section
+    [params.featureProduct]
+        enable  = false
+        title   = "SOME OF OUR FEATURES WORKS"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    # Footer section
+    [params.footer]
+        customized  = false # Set this variable to true if you customized the design.
+        copyright_owner = "Themefisher"
+        copyright_since = "2018"
+        [[params.footer.social]]
+            icon = "ion-social-facebook"
+            link = "https://facebook.com"
+        [[params.footer.social]]
+            icon = "ion-social-twitter"
+            link = "https://twitter.com"
+        [[params.footer.social]]
+            icon = "ion-social-instagram"
+            link = "https://instagram.com"
+
+    

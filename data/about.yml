@@ -1,0 +1,17 @@
+enable  : true
+title   : Latar Belakang
+description: >
+  FishHub Poisson didirikan untuk menjadi pelopor Indonesian integrated fish supply chain (ITC). ITC merupakan sistem yang diciptakan FishHub Poisson yang membantu menjualkan ikan paska panen dengan nilai tambah melalui edukasi tengkulak tentang pengolahan dan pengemasan produk olahan ikan. FishHub Poisson juga menciptakan ekosistem pasar ikan baru dengan metode offline dan online yang bekerja sama dengan toko-toko sekala kecil dan menengah. Ditambah FishHub Poisson juga memberikan informasi nutrisi ikan, status ramah lingkungan tentang bagaimana ikan ditangkap atau dibudidayakan untuk mencegah destructive fishing (penangkapan yang merusak) dan cemaran lingkungan.
+image   : images/about/fishhub.png
+aboutItem:
+  - title : Ikan Bergizi
+    description: > 
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+
+  - title : Sistem Terintegrasi
+    description: > 
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+
+  - title : Sumberdaya Berkelanjutan
+    description: > 
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

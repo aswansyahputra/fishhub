@@ -1,0 +1,36 @@
+enable  : true
+title   : Tim Kami
+members  :
+  - name  : Merdeka Agus Saputra
+    image : images/team/merdeka.jpeg
+    designation : CEO
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/merdeka-agus-saputra-a5064677/
+  
+  - name  : Jesmin Martina
+    image : images/team/team-2.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Deu John
+    image : images/team/team-3.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anderson Martin
+    image : images/team/team-4.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
