@@ -2,35 +2,25 @@ enable  : true
 title   : Tim Kami
 members  :
   - name  : Merdeka Agus Saputra
-    image : images/team/merdeka.jpeg
-    designation : CEO
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/merdeka-agus-saputra-a5064677/
+    image : images/team/deka.jpg
+    designation : Founder and main director
   
-  - name  : Jesmin Martina
-    image : images/team/team-2.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Sunarto
+    image : images/team/sunarto.jpg
+    designation : Commissioner
   
-  - name  : Deu John
-    image : images/team/team-3.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Roald Leeuwerik
+    image : images/team/roald.jpg
+    designation : Consultant of Product Innovation
 
-  - name  : Anderson Martin
-    image : images/team/team-4.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Tatak Dwi Cahyono
+    image : images/team/tatak.jpg
+    designation : Quality control
+
+  - name  : Nenden San
+    image : images/team/nenden.jpg
+    designation : Consultant of Media Marketing
+
+  - name  : Thithit Cahyani
+    image : images/team/thithit.jpg
+    designation : Fish middleman

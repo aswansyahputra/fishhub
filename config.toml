@@ -46,16 +46,16 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "images/slider.jpg"
         heading = "FishHub Poisson..."
-        description = "Sebuah Inovasi dan Solusi Pasca Panen Perikanan Indonesia"
+        description = "Inovasi dan Solusi Pasca Panen Perikanan Indonesia"
         btn     = true
         btnText = "Simak Video Kami"
-        btnURL  = "https://themefisher.com/"
+        btnURL  = "https://fishhub.id/"
         [[params.banner.flipText]]
-            title   = "Ikan Bergizi"
+            title   = "Bergizi"
         [[params.banner.flipText]]
-            title   = "Sistem Terintegrasi"
+            title   = "Terintegrasi"
         [[params.banner.flipText]]
-            title   = "Sumberdaya Berkelanjutan"
+            title   = "Berkelanjutan"
 
 
     # Homepage About Section
@@ -75,7 +75,7 @@ theme = "timer-hugo"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = true
+        enable  = false
         title   = "Produk Kami"
         subtitle= ""
 

@@ -1,34 +1,33 @@
 enable  : true
 title   : Kelebihan Kami
-subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
+subtitle: 
 item    :
   - icon  : ion-ios-flask-outline
-    title : Media heading
+    title : Traceability and Transparency
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Ketelusuran dan keterbukaan merupakan tujuan dari FishHub untuk memberikan informasi ke public mengenai produksi dan pengolahan ikan kita. Oleh karena itu, partner bisnis dan konsumen ikan dapat memahami keberlanjutan dan keamanan dari komoditas ikan yang kita jual.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Fish Certification Pre-assessment
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Beberapa nelayan Indonesia telah menjalankan praktek penangkapan ikan yang berkelanjutan. Namun, keberadaan mereka masih belum terlalu terkenal dan mereka tidak tersertifikat. Kami memberikan skema sertifikasi pre-assessment kepada nelayan secare kolektif. Hal ini diharapkan dapat membantu pihak ketiga untuk menentukan sertifikasi ke nelayan tersebut. 
 
   - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+    title : Export Commodities
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Kami memiliki tujuan untuk menjadi bagian dari 8,9 triliun dolar market share untuk dunia ekspor. Kami mengekspor berbagai macam komoditas ikan ke pasar Eropa dan Amerika. 
 
   - icon  : ion-ios-keypad-outline
-    title : Solid Support
+    title : Drone Monitoring
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Untuk meningkatkan pengawasan dan kendali terhadap produk ikan kami dari kegiatan penangkapan dan penanganan panen diatas perahu, kami menggunakan drone (pesawat kecil tanpa awak) untuk mengobservasi kegiatan penangkapan ikan. Hal ini untk mencegah kecurangan dalam penangkapan ikan yang dapat mengurangi kualitas ikan.
 
   - icon  : ion-ios-barcode-outline
-    title : Simple Installation
+    title : Monetization
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Kami akan mendapatkan 20% komisi untuk ikan yang kami berhasil jualkan ke Eropa dan Amerika kami membuat permintaan pada ikan yang berkelanjutan namun kurang begitu terkenal dikalangan masyarakat luar.
   
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Processing and Cold Storage
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Kami tahu bahwa masalah di bagian hulu kurangnya alternatif pengolahan dan penyimpanan beku sehingga kami bekerjasama dengan stakeholder pengolahan dan penyimpanan beku untuk mengetatasi kehilangan paska panen
